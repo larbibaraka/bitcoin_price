@@ -5,7 +5,7 @@ const Layout = (props) => (
       <Head>
          <title>BitCoin Price</title>
          <link rel="stylesheet" 
-            href="https://bootswatch.com/4/solar/bootstrap.min.css"
+            href="https://bootswatch.com/4/flatly/bootstrap.min.css"
          />  
       </Head>
       <Navbar/> 
