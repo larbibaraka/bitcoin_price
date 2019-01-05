@@ -1,9 +1,11 @@
-import Navbar from '../components/Navbar';
+import Layout from '../components/Layout';
+
 const Index  = () => (
-  <div>
-    <Navbar/>
+  <Layout>
+    <div>
     <h1>Welcome to bitcoinPrice App </h1>
-  </div>
+    </div>
+  </Layout>
 );
 
 
